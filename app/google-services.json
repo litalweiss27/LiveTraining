@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "706001360980",
+    "firebase_url": "https://livetraining-82c80.firebaseio.com",
+    "project_id": "livetraining-82c80",
+    "storage_bucket": "livetraining-82c80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706001360980:android:9e7005f8e8a82a2d5ff5c1",
+        "android_client_info": {
+          "package_name": "com.example.livetraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706001360980-ho0v6um0aj5r6imsvldq0qbf0ino24ni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.livetraining",
+            "certificate_hash": "7c07129d789b76cd2bedb0b93e6638cbdf4eb809"
+          }
+        },
+        {
+          "client_id": "706001360980-trp56mdkcamip6cv4rs5po2v6ht5q5nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvCn3QVFFESBSNrpIHdsu-Z05OkVloTlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706001360980-trp56mdkcamip6cv4rs5po2v6ht5q5nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

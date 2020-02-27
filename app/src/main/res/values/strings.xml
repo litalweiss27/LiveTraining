@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LiveTraining</string>
+    <string name="FullName">Full Name</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="Suite">Suite</string>
+    <string name="VestButtery">Vest battery</string>
+    <string name="HeadsetBattery">Headset battery</string>
+    <string name="mobileId">Mobile ID</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="mobileGPS">Mobile GPS</string>
+    <string name="mobileTime">Mobile Time</string>
+    <string name="mobileIP">Mobile IP</string>
+    <string name="macAddress">MAC Adress</string>
+    <string name="emptyString"></string>
+</resources>

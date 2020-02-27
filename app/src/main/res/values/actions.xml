@@ -1,0 +1,3 @@
+<resources>
+    <string name="ACTION_IMAGE_CAPTURE">"android.media.action.IMAGE_CAPTURE"</string>
+</resources>
