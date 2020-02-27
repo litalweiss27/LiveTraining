@@ -1,6 +1,8 @@
 package com.example.livetraining;
 
-public class FireData {
+import java.io.Serializable;
+
+public class FireData implements Serializable {
     private String weaponName;
     private String whoFire;
     private String whoFired;

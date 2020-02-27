@@ -60,7 +60,7 @@ public class PhoneDetailsActivity extends AppCompatActivity {
         InitializeTextViews();
         UpdateTextViewsWithPhoneDetails();
 
-        UpdateNonEventData();
+       // UpdateNonEventData();
 
         firebaseDatabase = FirebaseDatabase.getInstance();
         databaseReferenceCurrent = firebaseDatabase.getReference().child("Current");
@@ -139,6 +139,5 @@ public class PhoneDetailsActivity extends AppCompatActivity {
      //   databaseReferenceHistory.push().setValue(fireData);
         String key = databaseReferenceHistory.push().getKey();
         databaseReferenceCurrent.child(fireData.getWhoFired()).setValue(fireData);
-        databaseReferenceCurrent.child(fireData.getWhoFired()).
     }
 }
